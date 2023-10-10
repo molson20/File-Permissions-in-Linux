@@ -1,1 +1,1 @@
-This project highlights updating file permissions for files and directories in Linux using the Bash shell.
+This project highlights using Linux commands to manage file permissions in the Bash shell.
